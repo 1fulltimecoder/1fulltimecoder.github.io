@@ -1,6 +1,5 @@
 ---
 title: "Oops! You're offline"
-layout: "page"
 url: "/offline/"
 summary: No internet
 ShowShareButtons: false

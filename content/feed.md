@@ -1,7 +1,6 @@
 ---
 title: Feeds
 layout: page
-url: /feed
 summary: Website, Social Media Feeds
 ShowShareButtons: false
 ShowReadingTime: false
